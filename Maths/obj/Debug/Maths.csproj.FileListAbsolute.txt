@@ -1,0 +1,15 @@
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\bin\Debug\Maths.exe
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\bin\Debug\Maths.pdb
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\obj\Debug\Maths.csprojResolveAssemblyReference.cache
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\obj\Debug\Maths.MAIN_FORM.resources
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\obj\Debug\Maths.Properties.Resources.resources
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\obj\Debug\Maths.csproj.GenerateResource.Cache
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\obj\Debug\Maths.exe
+c:\users\cristi\documents\visual studio 2013\Projects\Maths\Maths\obj\Debug\Maths.pdb
+C:\Users\CRiSTi\documents\visual studio 2013\Projects\Maths\Maths\bin\Debug\Maths.exe.config
+G:\C# - Best Games & Projects(By me, normal xD)\Maths\Maths\bin\Debug\Maths.exe.config
+G:\C# - Best Games & Projects(By me, normal xD)\Maths\Maths\obj\Debug\Maths.exe
+G:\C# - Best Games & Projects(By me, normal xD)\Maths\Maths\obj\Debug\Maths.pdb
+I:\C# - Best Games & Projects(By me, normal xD)\Maths\Maths\bin\Debug\Maths.exe.config
+I:\C# - Best Games & Projects(By me, normal xD)\Maths\Maths\obj\Debug\Maths.exe
+I:\C# - Best Games & Projects(By me, normal xD)\Maths\Maths\obj\Debug\Maths.pdb
